@@ -1,2 +1,6 @@
 .venv/
 data_folder/
+src/utils/__pycache__/
+src/libs/resume_and_cover_builder/llm/__pycache__/
+__pycache__/
+log/

@@ -1,30 +1,6 @@
 <a name="top"></a>
-<div align="center">
-<img src="./assets/logo.png">
 
-# AIHawk the first Jobs Applier AI Agent
-
-  ![CI](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk/actions/workflows/ci.yml/badge.svg)
-
-**🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations and land your dream job faster.**
-
-Join our community: [Telegram](https://t.me/AIhawkCommunity) (for Normal users) | Discord (for Open Source contributors)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AIhawkCommunity)
-![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-</div>
-
-**Creator** [feder-cr](https://github.com/feder-cr), Co-Founder of AIHawk </br>
-As AIHawk is focusing on their proprietary product - solving problems in hiring for companies, currently this project is led, managed, and maintained by a group of open-source contributors, with a focus on building tools to help job seekers land the jobs they deserve.
-
-**Project Maintainers / Leads**: [surapuramakhil](https://github.com/surapuramakhil), [sarob](https://github.com/sarob), [cjbbb](https://github.com/cjbbb)
-
-We are looking to expand our FOSS maintainers team! If you are from a non-technical background, you can be part of the project management team, triaging issues, and shaping the project. If you are a technical person, you can join in doing code reviews, participating in releases, and building a better version of this product.
-
-reach out to [surapuramakhil](https://github.com/surapuramakhil) on Discord. [Special thanks](#special-thanks) 
-
-Auto_Jobs_Applier_AIHawk is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make Auto_Jobs_Applier_AIHawk a powerful tool for job seekers worldwide.
+**Original creator** [feder-cr](https://github.com/feder-cr), Co-Founder of AIHawk </br>
 
 ## Table of Contents
 

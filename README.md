@@ -2,6 +2,8 @@
 
 **Original creator** [feder-cr](https://github.com/feder-cr), Co-Founder of AIHawk </br>
 
+**original repo** [Auto jobs applier AI agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) </br>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
